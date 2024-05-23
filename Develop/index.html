@@ -6,14 +6,16 @@
 <!-- QUESTIONS -->
 <!-- IMG Tag does NOT have closing / -->
 <!-- Hero Class, Background Image, is this a thing? -->
+<!-- Should HERO by a Figure? It's just an image -->
 <!-- Main - Section vs Main - Article -->
-
+<!-- ALT + TITLE + FIGCAPTION?! -->
+<!-- Footer h2 / h4 text is too big, doesn't make sense, should be h4 but now too big -->
 
 
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>website</title>
+    <title>Horiseon Digital Marketing Services</title>
 </head>
 
 <body>
@@ -33,24 +35,35 @@
             </ul>
         </nav>
     </header>
-    <div class="hero"></div>
+    <div class="hero">
+
+    </div>
     <main class="content">
-        <section id="search-engine-optimization" class="search-engine-optimization">
-            <img src="./assets/images/search-engine-optimization.jpg" alt="Open Notebook on Table with 'SEO' Centered" title="Open Notebook on Table with 'SEO' Centered" class="float-left" />
+        <section id="search-engine-optimization" class="products">
+            <figure>
+                <img src="./assets/images/search-engine-optimization.jpg" alt="Open Spiral Notebook on Table with Word 'SEO' Centered and Prominent" title="Open Notebook on Table with 'SEO' Centered" class="float-left" />
+                <!-- <figcaption>A Notebook with the Word 'SEO' Prominent</figcaption> -->
+            </figure>
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
         </section>
-        <section id="online-reputation-management" alt="Open Laptop with Rising Barchart Titled 'Reputation'" title="Open Laptop with Rising Barchart Titled 'Reputation'" class="online-reputation-management">
-            <img src="./assets/images/online-reputation-management.jpg" class="float-right" />
+        <section id="online-reputation-management" class="products">
+            <figure>
+                <img src="./assets/images/online-reputation-management.jpg" alt="Open Laptop with Rising Barchart Titled 'Reputation'" title="Open Laptop with Rising Barchart Titled 'Reputation'" class="float-right" />
+                <!-- <figcaption>Laptop with Rising Barchart Titled 'Reputation'</figcaption> -->
+            </figure>
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
         </section>
-        <section id="social-media-marketing" class="social-media-marketing">
-            <img src="./assets/images/social-media-marketing.jpg" alt="Crowded Table with Colorful Icons Representing Social Media Channels and Activities" title="Crowded Table with Colorful Icons Representing Social Media Channels and Activities" class="float-left" />
+        <section id="social-media-marketing" class="products">
+            <figure>
+                <img src="./assets/images/social-media-marketing.jpg" alt="Crowded Table with Colorful Icons Representing Social Media Channels and Activities" title="Crowded Table with Colorful Icons Representing Social Media Channels and Activities" class="float-left" />
+                <!-- <figcaption>Table with Colorful Icons Representing Social Media</figcaption> -->
+            </figure>
             <h2>Social Media Marketing</h2>
             <p>
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
@@ -58,21 +71,21 @@
         </section>
     </main>
     <aside class="benefits">
-        <section class="benefit-lead">
+        <section class="benefit-detail">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt="Icon of Funnel Channeling Sales Opportunities into Coins" title="Icon of Funnel Channeling Sales Opportunities into Coins" />
             <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
             </p>
         </section>
-        <section class="benefit-brand">
+        <section class="benefit-detail">
             <h3>Brand Awareness</h3>
             <img src="./assets/images/brand-awareness.png" alt="Icon of Businessperson with a Radiating Lightbulb for a Head" title="Icon of Businessperson with a Radiating Lightbulb for a Head" />
             <p>
                 Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
             </p>
         </section>
-        <section class="benefit-cost">
+        <section class="benefit-detail">
             <h3>Cost Management</h3>
             <img src="./assets/images/cost-management.png" alt="Icon of a Gear Churning Out Coins" title="Icon of a Gear Churning Out Coins">
             <p>
@@ -81,7 +94,7 @@
         </section>
     </aside>
     <footer class="footer">
-        <h2>Made with ❤️️ by Horiseon</h2>
+        <h4>Made with ❤️️ by Horiseon</h2>
         <p>
             &copy; 2023 Horiseon Social Solution Services, Inc.
         </p>
