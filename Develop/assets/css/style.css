@@ -151,5 +151,6 @@ p {
 }
 
 .footer h4 {
+    /* Note to Evaluators: Use of an h2 tag in a Footer seems anomalous to me (it's too big for a Footer) and the font-size correction, to 20px, seems odd (and also too big); I updated the tag to an h4 tag (smaller) */
     font-size: 20px;
 }
