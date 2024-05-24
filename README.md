@@ -1,5 +1,4 @@
-# Columbia University Full-Stack Developer Bootcamp - Course Challenges
-# Module 01 - Challenge: Code Refactor > Horiseon Digital Marketing Services Landing Page
+# Full-Stack Developer Bootcamp Module 01 - Challenge: Code Refactor > Horiseon Digital Marketing Services Landing Page
 
 ## Description
 
