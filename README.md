@@ -2,7 +2,13 @@
 
 ## Description
 
+## Description
+
 The Horiseon Digital Marketing Services Landing Page provides is a sample Professional Services commercial website that provides the opportunity to implement semantic HTML tags, and optimized CSS.
+
+![Horiseon Digital Marketing Landing Page Screenshot](/Develop/images/Horiseon_Landing-Page_Screenshot.png?raw=true "Horiseon Screen Shot")
+
+GitHub Page: https://meanderingbrook.github.io/01_Challenge_Horiseon/
 
 
 ## Table of Contents (Optional)
