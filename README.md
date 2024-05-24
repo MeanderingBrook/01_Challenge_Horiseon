@@ -1,3 +1,65 @@
+# Columbia University Full-Stack Developer Bootcamp - Course Challenges
+# Module 01 - Challenge: Code Refactor > Horiseon Digital Marketing Services Landing Page
+
+## Description
+
+The Horiseon Digital Marketing Services Landing Page provides is a sample Professional Services commercial website that provides the opportunity to implement semantic HTML tags, and optimized CSS.
+
+
+## Table of Contents (Optional)
+
+N / A
+
+
+## Installation
+
+N / A
+
+
+## Usage
+
+The Landing Page is a sample website for the development of familiarity with HTML semantic tags, HTML page structure, and application of CSS attributes
+
+
+## Credits
+
+N / A
+
+
+## License
+
+Copyright <YEAR> <COPYRIGHT Chris Milazzo>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+## Badges
+
+N / A
+
+
+## Features
+
+N / A
+
+
+## How to Contribute
+
+N / A
+
+
+## Tests
+
+N / A
+
+
+
+------------- Original README File -------------
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
